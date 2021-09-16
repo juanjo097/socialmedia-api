@@ -70,3 +70,9 @@ C:\Users\juanj\OneDrive\Documentos\API\SocialMedia\SocialMedia\bin\Debug\netcore
 C:\Users\juanj\OneDrive\Documentos\API\SocialMedia\SocialMedia\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 C:\Users\juanj\OneDrive\Documentos\API\SocialMedia\SocialMedia\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\juanj\OneDrive\Documentos\API\SocialMedia\SocialMedia\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\juanj\OneDrive\Documentos\API\SocialMedia\SocialMedia\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\juanj\OneDrive\Documentos\API\SocialMedia\SocialMedia\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\juanj\OneDrive\Documentos\API\SocialMedia\SocialMedia\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\juanj\OneDrive\Documentos\API\SocialMedia\SocialMedia\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\juanj\OneDrive\Documentos\API\SocialMedia\SocialMedia\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\juanj\OneDrive\Documentos\API\SocialMedia\SocialMedia\obj\Debug\netcoreapp3.1\SocialMedia.MvcApplicationPartsAssemblyInfo.cs
